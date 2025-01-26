@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmplMgmtSysApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(EmplMgmtSysApplication.class, args);
 	}
 
